@@ -4,14 +4,6 @@ A simple and responsive **Image Slider** built using **HTML, CSS, and JavaScript
 
 VERCEL : - https://slider-in-js-iota.vercel.app/
 
-## 📸 Preview
-
-![Image Slider Preview](preview.png)
-
-> Replace `preview.png` with your project screenshot.
-
----
-
 ## 🚀 Features
 
 - 📷 Display multiple images
